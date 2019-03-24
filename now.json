@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "playground-vanilla-spa",
+  "name": "playground-lit-navigo-spa",
   "builds": [
     {
       "src": "package.json",
