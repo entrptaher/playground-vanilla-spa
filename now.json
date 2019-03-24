@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "name": "playground-vanilla-spa",
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@now/static-build",
+      "config": { "distDir": "dist" }
+    }
+  ]
+}
