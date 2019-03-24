@@ -20,7 +20,7 @@ yarn run build
 
 To deploy:
 
-Install now-cli and
+Install `now-cli` and change the project name on `now.json` file
 ```
 now
 ```
