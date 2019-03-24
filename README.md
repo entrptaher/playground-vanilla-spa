@@ -1,5 +1,7 @@
 # playground-vanilla-spa
 
+![](https://i.imgur.com/sFctnEz.gif)
+
 This is a sample that showcases very minimal usage of,
 - [lit](https://github.com/polymer/lit-html)
 - [navigo](https://github.com/krasimir/navigo)
