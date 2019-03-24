@@ -16,6 +16,10 @@ function hashHandler() {
 
 window.addEventListener("hashchange", hashHandler, false);
 
+if(document.querySelector("#app").innerHTML === ""){
+  hashHandler()
+}
+
 if (!window.location.hash) {
   location.href += "#/";
   window.dispatchEvent(new HashChangeEvent("hashchange"));
